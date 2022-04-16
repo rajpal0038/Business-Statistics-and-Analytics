@@ -1,1 +1,1 @@
-# Business-Statistics-and-Analystics
+# Business-Statistics-and-Analytics
